@@ -28,3 +28,7 @@
   position: center;
   color: #df902a;
 }
+
+section#contact .section-heading {
+  color: #fff;
+}
