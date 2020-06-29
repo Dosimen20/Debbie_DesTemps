@@ -269,28 +269,11 @@ p {
   font-weight: 100 !important;
 }
 
-.media {
-  position: absolute:
-  top: 40%;
-  left: 50%;
-  transform: translate(-53%, -50%);
-
-}
-
-
-li {
-  list-style: none;
-  margin: 10px 30px;
-  display: inline-block;
-  font-size: 20px;
-  padding: 20px 20px;
-  color: black;
-  border:1px solid black ;
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
   border-radius: 50%;
-  transition: .5s;
-}
-
-li:hover {
-  color: #df902a;
-  border: 1px solid #df902a;
 }
